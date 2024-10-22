@@ -55,33 +55,21 @@ Here are a few of my major projects:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-Anuwadia&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshil-Anuwadia&theme=radical&hide_border=false)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-Anuwadia&layout=compact&theme=radical&hide_border=false)
-  
-</div>
+![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-Anuwadia&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshil-Anuwadia&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-Anuwadia&layout=compact&theme=radical&hide_border=false)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Harshil-Anuwadia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=Harshil-Anuwadia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
