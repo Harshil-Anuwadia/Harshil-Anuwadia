@@ -6,24 +6,12 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Parul Universit
 
 ---
 
-## 💫 About Me
-
-- 🛠 I’m currently working on **CA Operating System**, focusing on optimizing system performance and security.
-- 🌱 Constantly evolving in the fields of **cybersecurity** and **software development**, with an interest in secure systems and AI-driven applications.
-- 💬 Feel free to ask me about **high-level programming**, **system architecture**, or **penetration testing**, **web development**, **seo audit**.
-- 🚀 Always open to innovative collaborations in **open-source** or **advanced tech projects**.
-- 🔍 Dedicated to improving software that makes security accessible and efficient for everyone.
-
----
-
 ## 🌐 Let's Connect!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/harshil_cs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshilanuwadia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshil-Anuwadia)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/harshilanuwadia)
-
-📧 **Email**: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 
 ---
 
