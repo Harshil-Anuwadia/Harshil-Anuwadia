@@ -2,17 +2,17 @@
 
 🎯 **Creator of CA Softwares | Software Developer | Cybersecurity Enthusiast**
 
-Welcome to my GitHub profile! I am passionate about building software solutions, cybersecurity, and currently working on my project **CA (Operating System)**. I love to explore new technologies and push boundaries in coding and security.
+Welcome to my GitHub profile! I am passionate about building robust software solutions, specializing in cybersecurity, and currently working on my ambitious project **CA (Operating System)**. I am always pushing the boundaries of coding, systems programming, and security protocols to build next-generation tools and platforms.
 
 ---
 
 ## 💫 About Me
 
-- 🛠 I’m currently working on **CA Operating System**.
-- 🌱 I’m constantly learning and experimenting with **cybersecurity** and **systems programming**.
-- 💬 Ask me about anything related to **software development** or **cybersecurity**!
-- 📝 Check out my [Blog](#) for more technical articles and tutorials.
-- 🔭 I’m looking forward to collaborating on innovative projects and open-source initiatives.
+- 🛠 I’m currently working on **CA Operating System**, focusing on optimizing system performance and security.
+- 🌱 Constantly evolving in the fields of **cybersecurity** and **software development**, with an interest in secure systems and AI-driven applications.
+- 💬 Feel free to ask me about **low-level programming**, **system architecture**, or **penetration testing**.
+- 🚀 Always open to innovative collaborations in **open-source** or **advanced tech projects**.
+- 🔍 Dedicated to improving software that makes security accessible and efficient for everyone.
 
 ---
 
@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I am passionate about building software solutions,
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/harshil_cs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshil-Anuwadia)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/harshilanuwadia)
+
+📧 **Email**: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 
 ---
 
@@ -44,8 +47,8 @@ Welcome to my GitHub profile! I am passionate about building software solutions,
 
 Here are a few of my major projects:
 
-- **[CA Operating System](#)** - An operating system built from scratch to enhance cybersecurity and performance.
-- **[AI Model Training Service](https://braindrop.me)** - Custom AI model training platform for businesses (BrainDrop AI).
+- **[CA Operating System](#)** - A high-performance, secure operating system built from scratch to enhance cybersecurity and system efficiency.
+- **[AI Model Training Service](https://braindrop.me)** - BrainDrop AI, a cloud platform providing businesses with powerful, scalable AI model training tools.
 - **[Inventory Management System](#)** - A Python-based application for managing products and generating professional invoices.
 
 ---
@@ -64,25 +67,19 @@ Here are a few of my major projects:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📄 Resume
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshil-Anuwadia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🎯 Certifications & Achievements
-
-- **Certified Ethical Hacker (CEH)**
-- **AWS Certified Solutions Architect**
-- **Python for Data Science & AI**
+- 📄 Want to know more about my professional journey? You can download my **[Resume](https://braindrop.me/resume)** to explore my experience, skills, and educational background in greater detail.
 
 ---
 
 ## 📫 How to reach me:
 
 - 📧 Email: [harshilanuwadia97@gmail.com](mailto:harshilanuwadia97@gmail.com)
-- 🌐 Portfolio: [MyWebsite.com](#)
+- 📧 Professional Email: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
+- 🌐 Linktree: [linktr.ee/harshilanuwadia](https://linktr.ee/harshilanuwadia)
+- 📝 Resume: [Download Here](https://braindrop.me/resume)
 
 ---
 
-*Feel free to explore my repositories and reach out if you want to collaborate!*
+*Feel free to explore my repositories and get in touch for collaboration opportunities or discussions!*
