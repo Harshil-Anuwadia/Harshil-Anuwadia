@@ -56,8 +56,6 @@ Here are a few of my major projects:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-Anuwadia&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshil-Anuwadia&theme=radical&hide_border=false)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-Anuwadia&layout=compact&theme=radical&hide_border=false)
   
