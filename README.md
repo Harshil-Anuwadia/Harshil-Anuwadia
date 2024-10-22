@@ -22,6 +22,9 @@ Welcome to my GitHub profile! I am passionate about building robust software sol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshil-Anuwadia)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/harshilanuwadia)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshil.cs)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/harshilanuwadia)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshilanuwadia)
 
 📧 **Email**: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 
@@ -61,13 +64,19 @@ Here are a few of my major projects:
 
 ---
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Harshil-Anuwadia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 📄 Resume
+## 📄 View Resume
 
 - 📄 Want to know more about my professional journey? You can **[View My Resume](https://braindrop.me/resume)** to explore my experience, skills, and educational background in greater detail.
 
