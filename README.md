@@ -2,7 +2,7 @@
 
 🎯 **Creator of CA Softwares | Software Developer | Cybersecurity Enthusiast**
 
-Welcome to my GitHub profile! I am passionate about building robust software solutions, specializing in cybersecurity, and currently working on my ambitious project **CA (Operating System)**. I am always pushing the boundaries of coding, systems programming, and security protocols to build next-generation tools and platforms.
+Welcome to my GitHub profile! I'm a passionate B.Tech student at Parul University, specializing in software engineering. I have a strong foundation in programming and web development
 
 ---
 
