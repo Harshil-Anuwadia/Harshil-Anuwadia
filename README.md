@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Parul Universit
 
 - 🛠 I’m currently working on **CA Operating System**, focusing on optimizing system performance and security.
 - 🌱 Constantly evolving in the fields of **cybersecurity** and **software development**, with an interest in secure systems and AI-driven applications.
-- 💬 Feel free to ask me about **low-level programming**, **system architecture**, or **penetration testing**.
+- 💬 Feel free to ask me about **high-level programming**, **system architecture**, or **penetration testing**,**web development**, **seo audit**.
 - 🚀 Always open to innovative collaborations in **open-source** or **advanced tech projects**.
 - 🔍 Dedicated to improving software that makes security accessible and efficient for everyone.
 
