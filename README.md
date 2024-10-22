@@ -22,9 +22,6 @@ Welcome to my GitHub profile! I am passionate about building robust software sol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshil-Anuwadia)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/harshilanuwadia)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshil.cs)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/harshilanuwadia)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshilanuwadia)
 
 📧 **Email**: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 
@@ -52,27 +49,39 @@ Here are a few of my major projects:
 
 - **[BrainDrop AI](https://braindrop.me)** - BrainDrop AI, a cloud platform providing businesses with powerful, scalable AI model training tools.
 - **[Dream Collection](https://dreamcollection.live)** - An e-commerce platform for handmade jewelry, offering a wide range of unique and creative designs.
-- **[CA Softwares](#)** - Developing a high-performance, secure operating system built from scratch to enhance cybersecurity and system efficiency.
+- **CA Softwares** - Developing a high-performance, secure operating system built from scratch to enhance cybersecurity and system efficiency.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-Anuwadia&show_icons=true&theme=radical&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshil-Anuwadia&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-Anuwadia&layout=compact&theme=radical&hide_border=false)
+<div align="center">
+  
+  ![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-Anuwadia&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshil-Anuwadia&theme=radical&hide_border=false)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-Anuwadia&layout=compact&theme=radical&hide_border=false)
+  
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Harshil-Anuwadia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Harshil-Anuwadia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
@@ -87,7 +96,6 @@ Here are a few of my major projects:
 - 📧 Email: [harshilanuwadia97@gmail.com](mailto:harshilanuwadia97@gmail.com)
 - 📧 Professional Email: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 - 🌐 Linktree: [linktr.ee/harshilanuwadia](https://linktr.ee/harshilanuwadia)
-- 📝 View My Resume: [Click Here](https://braindrop.me/resume)
 
 ---
 
