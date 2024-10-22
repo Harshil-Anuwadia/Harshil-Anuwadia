@@ -47,9 +47,9 @@ Welcome to my GitHub profile! I am passionate about building robust software sol
 
 Here are a few of my major projects:
 
-- **[CA Operating System](#)** - A high-performance, secure operating system built from scratch to enhance cybersecurity and system efficiency.
-- **[AI Model Training Service](https://braindrop.me)** - BrainDrop AI, a cloud platform providing businesses with powerful, scalable AI model training tools.
-- **[Inventory Management System](#)** - A Python-based application for managing products and generating professional invoices.
+- **[BrainDrop AI](https://braindrop.me)** - BrainDrop AI, a cloud platform providing businesses with powerful, scalable AI model training tools.
+- **[Dream Collection](https://dreamcollection.live)** - An e-commerce platform for handmade jewelry, offering a wide range of unique and creative designs.
+- **[CA Softwares](#)** - Developing a high-performance, secure operating system built from scratch to enhance cybersecurity and system efficiency.
 
 ---
 
@@ -69,7 +69,7 @@ Here are a few of my major projects:
 
 ## 📄 Resume
 
-- 📄 Want to know more about my professional journey? You can download my **[Resume](https://braindrop.me/resume)** to explore my experience, skills, and educational background in greater detail.
+- 📄 Want to know more about my professional journey? You can **[View My Resume](https://braindrop.me/resume)** to explore my experience, skills, and educational background in greater detail.
 
 ---
 
@@ -78,7 +78,7 @@ Here are a few of my major projects:
 - 📧 Email: [harshilanuwadia97@gmail.com](mailto:harshilanuwadia97@gmail.com)
 - 📧 Professional Email: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 - 🌐 Linktree: [linktr.ee/harshilanuwadia](https://linktr.ee/harshilanuwadia)
-- 📝 Resume: [Download Here](https://braindrop.me/resume)
+- 📝 View My Resume: [Click Here](https://braindrop.me/resume)
 
 ---
 
