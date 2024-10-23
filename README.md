@@ -72,6 +72,8 @@ Here are a few of my major projects:
 - 📧 Email: [harshilanuwadia97@gmail.com](mailto:harshilanuwadia97@gmail.com)
 - 📧 Professional Email: [harshilanuwadia@braindrop.me](mailto:harshilanuwadia@braindrop.me)
 - 🌐 Linktree: [linktr.ee/harshilanuwadia](https://linktr.ee/harshilanuwadia)
+- 🌐 Portfolio:
+[linktr.ee/harshilanuwadia](https://linktr.ee/harshilanuwadia)
 
 ---
 
