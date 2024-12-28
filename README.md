@@ -39,6 +39,8 @@ Here are a few of my major projects:
 - **[Dream Collection](https://dreamcollection.live)** - An e-commerce platform for handmade jewelry, offering a wide range of unique and creative designs.
 - **[CA SOFTWARES](https://gitHub.com/CA-SOFTWARES)** - Developing a high-performance, secure operating system built from scratch to enhance cybersecurity and system efficiency.
 - **[SuperWebify](https://superwebify.tech)** - Build your dream website effortlessly with our premium templates. Explore templates for your startup, business, or personal projects.
+- **[DigitalSwift](https://braindrop.me/digitalswift)** - Responsive premium website template with modern design, clean code, and customizable features—perfect for any project.
+
 
 ---
 
