@@ -66,7 +66,7 @@ Here are a few of my major projects:
 
 ## 📄 View Resume
 
-- 📄 Want to know more about my professional journey? You can **[View My Resume](https://braindrop.me/resume)** to explore my experience, skills, and educational background in greater detail.
+- 📄 Want to know more about my professional journey? You can **[View My Resume](https://harshil-anuwadia.github.io/resume)** to explore my experience, skills, and educational background in greater detail.
 
 ---
 
