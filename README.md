@@ -65,6 +65,10 @@ Here are a few of my major projects:
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f6506dbe-50e6-4f99-982d-024e7709abeb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+--- 
+
 ## 📫 How to reach me:
 
 - 📧 Email: [harshilanuwadia97@gmail.com](mailto:harshilanuwadia97@gmail.com)
